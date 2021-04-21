@@ -1,6 +1,5 @@
 import Thumbnail from "./Thumbnail"
 import FlipMove from 'react-flip-move'
-import Test from "./test"
 
 function Results({results}) {
   console.log("results component",results)
